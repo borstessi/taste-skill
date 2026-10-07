@@ -1,6 +1,6 @@
 ---
 name: minimalist-ui
-description: Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy shadows.
+description: "Fixed visual style, editorial minimalism with warm monochrome palette, typographic contrast and flat bento grids. Use only when the user asks for a minimalist, editorial or Notion-like look by name. Not for screens in a product that already has a design system or component library (Mantine, Tamagui, shadcn/ui), there the existing system decides."
 ---
 
 # Protocol: Premium Utilitarian Minimalism UI Architect

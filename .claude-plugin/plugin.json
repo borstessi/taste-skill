@@ -1,6 +1,6 @@
 {
   "name": "taste-skill",
-  "description": "Frontend design taste skills including brutalist, minimalist, soft, redesign, stitch, and more",
+  "description": "Frontend design taste skills for standalone pages: taste, redesign, minimalist, soft, brutalist, full-output. beAzubi fork with narrowed descriptions.",
   "version": "1.0.0",
   "author": {
     "name": "leonxlnx",

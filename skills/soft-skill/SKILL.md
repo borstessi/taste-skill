@@ -1,6 +1,6 @@
 ---
 name: high-end-visual-design
-description: Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make AI designs look cheap or generic.
+description: "Fixed visual style, high-end agency look with premium fonts, soft layered shadows and choreographed motion. Use only when the user asks for an agency, premium or Awwwards-level look by name. Not for screens in a product that already has a design system or component library (Mantine, Tamagui, shadcn/ui), there the existing system decides."
 ---
 
 # Agent Skill: Principal UI/UX Architect & Motion Choreographer (Awwwards-Tier)

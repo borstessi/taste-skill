@@ -1,6 +1,6 @@
 ---
 name: redesign-existing-projects
-description: Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS framework or vanilla CSS.
+description: "Audits the look of an existing standalone website and upgrades typography, color, spacing and states without touching functionality. Use when the user asks to redesign or visually upgrade such a site. Not for screens in a product that already has a design system or component library (Mantine, Tamagui, shadcn/ui), there the existing system decides."
 ---
 
 # Redesign Skill

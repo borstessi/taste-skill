@@ -1,6 +1,6 @@
 ---
 name: full-output-enforcement
-description: Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged output.
+description: "Forbids placeholders and truncated code and splits long output at clean breakpoints. Use only when a workflow or the user names this skill, for example to write a long file in full."
 ---
 
 # Full-Output Enforcement
